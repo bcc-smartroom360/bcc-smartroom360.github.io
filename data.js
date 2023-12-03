@@ -95,7 +95,7 @@ var APP_DATA = {
           "yaw": 0.07449347693758313,
           "pitch": 0.16674585063421432,
           "title": "Master Bedroom TV",
-          "text": "Alexa, turn on/off master bedroom TV."
+          "text": "Alexa, turn on/off master room TV."
         },
         {
           "yaw": 2.5405728921412436,
