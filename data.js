@@ -79,7 +79,7 @@ var APP_DATA = {
           "title": "Master Bedroom Curtain 1",
           "text": "Alexa, close/open master room curtain 1."
         },
-        {
+        { 
           "yaw": -0.36979575567107936,
           "pitch": 0.005757712380873414,
           "title": "Master Bedroom Curtain 2",
